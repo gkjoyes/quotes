@@ -19,3 +19,7 @@
 <!-- 5 -->
 
 > "Debuggers don't remove bugs. They only show them in slow motion." - [**Karl Lehenbauer**](https://en.wikipedia.org/wiki/Karl_Lehenbauer)
+
+<!-- 6 -->
+
+> "The most amazing achievement of the computer software industry is its continuing cancellation of the steady and staggering gains made by the computer hardware industry." - [**Henry Petroski**](https://en.wikipedia.org/wiki/Henry_Petroski) (2015)
