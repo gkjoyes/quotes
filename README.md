@@ -15,3 +15,7 @@
 <!-- 4 -->
 
 > "The hardest bugs are those where your mental model of the situation is just wrong, so you can't see the problem at all" - **[Brian Kernighan](https://en.wikipedia.org/wiki/Brian_Kernighan)**
+
+<!-- 5 -->
+
+> "Debuggers don't remove bugs. They only show them in slow motion." - [**Karl Lehenbauer**](https://en.wikipedia.org/wiki/Karl_Lehenbauer)
