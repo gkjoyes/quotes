@@ -5,3 +5,7 @@
 -- Peter Weinberger (inventor of awk)
 
 ---
+
+"We think awful code is written by awful devs. But in reality, it's written by reasonable devs in awful circumstances."
+
+-- Sarah Mei
