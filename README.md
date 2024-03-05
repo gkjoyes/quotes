@@ -23,3 +23,7 @@
 <!-- 6 --> &nbsp;
 
 > "The most amazing achievement of the computer software industry is its continuing cancellation of the steady and staggering gains made by the computer hardware industry." - [**Henry Petroski**](https://en.wikipedia.org/wiki/Henry_Petroski) (2015)
+
+<!-- 7 --> &nbsp;
+
+> "The hardware folks will not put more cores into their hardware if the software isn't going to use them, so, it is this balancing act of each other staring at each other, and we are hoping that Go is going to break through on the software side." - [**Rob Pike**](https://en.wikipedia.org/wiki/Rob_Pike)
