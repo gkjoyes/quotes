@@ -39,3 +39,7 @@
 <!-- 10 --> &nbsp;
 
 > "Making things easy to do is a false economy. Focus on making things easy to understand and the rest will follow." - [Peter Bourgon](https://peter.bourgon.org/)
+
+<!-- 11 --> &nbsp;
+
+> "The purpose of abstraction is not to be vague, but to create a new  sematic level in which one can be absolutely precise." - [Edsger W. Dijkstra](https://en.wikipedia.org/wiki/Edsger_W._Dijkstra)
