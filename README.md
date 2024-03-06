@@ -35,3 +35,7 @@
 <!-- 9 --> &nbsp;
 
 > "Problems can usually be solved with simple, mundane solutions. That means there's no glamorous work. You don't get to show off your amazing skills. You just build something that gets the job done and then move on." - Jason Fried
+
+<!-- 10 --> &nbsp;
+
+> "Making things easy to do is a false economy. Focus on making things easy to understand and the rest will follow." - [Peter Bourgon](https://peter.bourgon.org/)
