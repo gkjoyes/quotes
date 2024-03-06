@@ -31,3 +31,7 @@
 <!-- 8 --> &nbsp;
 
 > "Good engineering is less about finding the "perfect" solution and more about understanding the tradeoffs and being able to explain them" - JBD
+
+<!-- 9 --> &nbsp;
+
+> "Problems can usually be solved with simple, mundane solutions. That means there's no glamorous work. You don't get to show off your amazing skills. You just build something that gets the job done and then move on." - Jason Fried
