@@ -27,3 +27,7 @@
 <!-- 7 --> &nbsp;
 
 > "The hardware folks will not put more cores into their hardware if the software isn't going to use them, so, it is this balancing act of each other staring at each other, and we are hoping that Go is going to break through on the software side." - [**Rob Pike**](https://en.wikipedia.org/wiki/Rob_Pike)
+
+<!-- 8 --> &nbsp;
+
+> "Good engineering is less about finding the "perfect" solution and more about understanding the tradeoffs and being able to explain them" - JBD
