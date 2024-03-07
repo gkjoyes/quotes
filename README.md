@@ -46,4 +46,8 @@
 
 <!-- 12 --> &nbsp;
 
-> "Computing is all about abstractions. Those below yours are just details. Those above yours are limiting complicated crazy town." - **Joe Beda**
+> "Computing is all about abstractions. Those below yours are just details. Those above yours are limiting complicated crazy town." - [**Joe Beda**](https://github.com/jbeda)
+
+<!-- 13 --> &nbsp;
+
+> "Implicit conversion of types is the Halloween special of coding. Whoever thought of them deserves their of special hell." - [**Martin Thompson**](https://github.com/mjpt777)
