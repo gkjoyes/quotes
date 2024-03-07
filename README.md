@@ -43,3 +43,7 @@
 <!-- 11 --> &nbsp;
 
 > "The purpose of abstraction is not to be vague, but to create a new  sematic level in which one can be absolutely precise." - [**Edsger W. Dijkstra**](https://en.wikipedia.org/wiki/Edsger_W._Dijkstra)
+
+<!-- 12 --> &nbsp;
+
+> "Computing is all about abstractions. Those below yours are just details. Those above yours are limiting complicated crazy town." - **Joe Beda**
